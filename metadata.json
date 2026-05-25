@@ -1,0 +1,6 @@
+{
+  "name": "Social Care",
+  "description": "A production-ready digital wellbeing, parental monitoring, screen time controller, and security logging application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
